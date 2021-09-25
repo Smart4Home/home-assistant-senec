@@ -24,5 +24,5 @@ SENSOR_TYPES = {
     "grid_state_power": [POWER_WATT, "mdi:transmission-tower"],
     "grid_imported_power": [POWER_WATT, "mdi:transmission-tower"],
     "grid_exported_power": [POWER_WATT, "mdi:transmission-tower"],
-    "wb_consumption": [POWER_WATT, "mdi:solar-power"],
+    "max_total_current_by_grid": [POWER_WATT, "mdi:ev-station"],
 }
